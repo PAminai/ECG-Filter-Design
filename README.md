@@ -23,7 +23,7 @@ A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurat
 8. Run the code
 9. Then you can see the result of filtering in the opened figures like fiugres shown below:
 
-![ECG Noise Cancellation]()
+![ECG Noise Cancellation](https://github.com/PAminai/ECG-Filter-Design/blob/master/Filter_Result.jpg)
 
 
 
