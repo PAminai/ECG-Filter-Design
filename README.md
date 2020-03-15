@@ -6,7 +6,7 @@ ECG inevitably affected by various types of noise interference such as:
 1. Baseline Wander noise
 2. Power Line Interference (50/60 HZ)
 
-A 4th order Elliptic filter and a 4th order Chebyshev Type II configurations are found to be better choice for the implementation of high pass and Notch filters respectively.
+A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurations are found to be better choice for the implementation of high pass and Notch filters respectively.
 
 # How to Filter noisy ECG:
 1. Add path your corresponding directory
