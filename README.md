@@ -27,6 +27,6 @@ A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurat
 
 
 
-Any feedback to this filters design is warmly welcomed. (pouya.aminaie@gmail.com)
+I hope this codes was useful for you. Any feedback to this filters design is warmly welcomed.
 
 
