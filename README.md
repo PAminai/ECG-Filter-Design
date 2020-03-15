@@ -1,5 +1,5 @@
 # ECG-Filter-Design
-In this Codes, my main task was to design efficient digital filters to eliminate all the noise sources associated with the ECG signal so as to get a noise free ECG signal as output from the filters.
+In these Codes, my main task was to design efficient digital filters to eliminate all the noise sources associated with the ECG signal so as to get a noise free ECG signal as output from the filters.
 
 ECG inevitably affected by various types of noise interference such as:
 
