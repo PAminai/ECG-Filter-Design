@@ -11,9 +11,9 @@ A 4th order Elliptic filter and a 4th order Chebyshev Type II configurations are
 # How to Filter noisy ECG:
 1. Add path your corresponding directory
 2. Add following codes to this path:
-  * **Chebyshev_II.m**
-  * **Elliptic.m**
-  * **Test.m**
+      * **Chebyshev_II.m**
+      * **Elliptic.m**
+      * **Test.m**
   
 3. Add your noisy ecg signal to this directory. Note that your signal must be in **.mat** format.
 4. Open **Test.m** file
