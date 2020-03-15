@@ -10,7 +10,7 @@ A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurat
 
 # How to Filter noisy ECG:
 1. Add path your corresponding directory
-2. Add following codes to this path:
+2. Add following files to this path:
       * **Chebyshev_II.m**
       * **Elliptic.m**
       * **Test.m**
