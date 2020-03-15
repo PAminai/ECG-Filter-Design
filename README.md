@@ -26,7 +26,6 @@ A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurat
 ![ECG Noise Cancellation](https://github.com/PAminai/ECG-Filter-Design/blob/master/filter%20result.png)
 
 
-
 I hope this codes was useful for you. Any feedback to this filters design is warmly welcomed.
 
 
