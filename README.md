@@ -21,9 +21,12 @@ A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurat
 6. Use **Notch** function to filter 50 Hz powerline noise.
 7. Use **HPF** function to filter baseline noise.
 8. Run the code
+9. Then you can see the result of filtering in the opened figures like fiugres shown below:
 
-Then you can see the result of filtering in the opened figures.
+![ECG Noise Cancellation]()
 
-Any feedback to this filters design is warmly welcomed. 
+
+
+Any feedback to this filters design is warmly welcomed. (pouya.aminaie@gmail.com)
 
 
