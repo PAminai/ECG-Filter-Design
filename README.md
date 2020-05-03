@@ -4,7 +4,7 @@ In these Codes, my main task was to design efficient digital filters to eliminat
 ECG inevitably affected by various types of noise interference such as:
 
 1. Baseline Wander noise
-2. Power Line Interference (50/60 HZ)
+2. Power Line Interference (50/60 Hz)
 
 A **4th order Elliptic** filter and a **4th order Chebyshev Type II** configurations are found to be better choice for the implementation of high pass and Notch filters respectively.
 
